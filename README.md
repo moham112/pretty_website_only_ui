@@ -1,16 +1,12 @@
-# website
+# Flutter UI Showcase
 
-A new Flutter project.
+This app showcases my ability to translate Figma designs into responsive, modern UIs using Flutter. I’ve focused on creating a smooth user experience with a clean, intuitive layout.
 
-## Getting Started
+## Figma Design
+The design was created in Figma. You can check it out [Figma Design](https://www.figma.com/design/5tc6gw62ODbYJjH7Mm1KDt/Portfolio---Product-Designer-Portfolio-Website-(Community)?node-id=0-1&t=Rjy6jc6U9fS1WRB8-0).
 
-This project is a starting point for a Flutter application.
+## Built With
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to reach out if you have any feedback!
