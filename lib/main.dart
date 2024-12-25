@@ -17,23 +17,20 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        body: SingleChildScrollView(
-          scrollDirection: Axis.vertical,
-          child: Column(
-            children: [
-              SizedBox(height: 30),
-              Legend(),
-              SizedBox(height: 20),
-              Services(),
-              WorkExperience(),
-              Hire(),
-              Testimonials(),
-              Contact(),
-              Image.asset("assets/ribbon.png"),
-              Blog(),
-              Footer(),
-            ],
-          ),
+        body: ListView(
+          children: [
+            SizedBox(height: 30),
+            Legend(),
+            SizedBox(height: 20),
+            Services(),
+            WorkExperience(),
+            Hire(),
+            Testimonials(),
+            Contact(),
+            Image.asset("assets/ribbon.png"),
+            Blog(),
+            Footer(),
+          ],
         ),
       ),
     );
